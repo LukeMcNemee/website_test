@@ -8,8 +8,10 @@ layout: page
 ---
 
 ## Informace pro hosty
+zajistíme
 
 ## Program
+bude 
 
 ## Mapa
 
