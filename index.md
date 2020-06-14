@@ -10,10 +10,10 @@ layout: page
 ## Informace pro hosty
 Pokud jste obdrželi pozvánku, zveme Vás na obřad, všechny součásti programu, večerní párty a případnou afterparty. 
 
-
+Na místo obřadu vzahradě prosím přijďte s dostatečným předstihem, od hlavního vstupu do zámku bude vyznačená cesta.
 
 ### Dresscode
-Doporučený dresscode je smart casual.
+Doporučený dresscode je smart casual. Barvou svatby je červená.
 
 ### Svatební dary
 Největším darem pro nás bude Vaše přítomnost. Pokud se přesto rozhodnete darovat nám svatební dar, pak oceníme finanční příspěvek do začátku našeho manželství. 
@@ -25,9 +25,24 @@ Od odpoledních hodin, minimálně do konce oficiálního programu bude zajišt�
 
 13:00 - Obřad
 
-14:00 - Přípitek, Raut
+13:30 - Společná fotografie
 
-Další program bude :)
+13:45 - Skupinové focení
+
+15:00 - Přípitek, Raut
+
+16:30 - Chemické pokusy I.
+
+17:30 - Zábavná skupinová aktivita (upřesníme)
+
+18:30 - Krájení dortu, hod květinou
+
+19:30 - Tanec
+
+20:30 - Kahoot
+
+22:?? - Chemické pokusy II.
+
 
 ## Mapa
 
