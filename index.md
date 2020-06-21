@@ -21,7 +21,7 @@ Největším darem pro nás bude Vaše přítomnost. Pokud se přesto rozhodnete
 ### Doprava
 Od odpoledních hodin, minimálně do konce oficiálního programu bude zajištěna možnost odvozu do Brna, čas poslední cesty a kontakt na řidiče poskytneme na místě. 
 
-<iframe src="https://www.poll-maker.com/frame2984668xA4e715ab-89" width:"100%" height:"297px"></iframe>
+<iframe src="https://www.poll-maker.com/frame2984668xA4e715ab-89" width="žéépx" height="297px"></iframe>
  
 ## Program
 
