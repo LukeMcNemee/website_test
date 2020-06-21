@@ -20,7 +20,9 @@ Největším darem pro nás bude Vaše přítomnost. Pokud se přesto rozhodnete
 
 ### Doprava
 Od odpoledních hodin, minimálně do konce oficiálního programu bude zajištěna možnost odvozu do Brna, čas poslední cesty a kontakt na řidiče poskytneme na místě. 
-<iframe src="https://www.poll-maker.com/frame2984668xA4e715ab-89" seamless="seamless" frameborder="no" style="border:0; background:transparent; width:100%; height:297px;"></iframe><div id='qp_foot2984668' style='width:100%; padding:5px; text-align:center;'>
+
+<iframe src="https://www.poll-maker.com/frame2984668xA4e715ab-89" width:100%; height:297px;"></iframe>
+ 
 ## Program
 
 13:00 - Obřad
