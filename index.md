@@ -20,7 +20,7 @@ Největším darem pro nás bude Vaše přítomnost. Pokud se přesto rozhodnete
 
 ### Doprava
 Od odpoledních hodin, minimálně do konce oficiálního programu bude zajištěna možnost odvozu do Brna, čas poslední cesty a kontakt na řidiče poskytneme na místě. 
-<script>(function(i,s,o,g,r,a,m){i['QP']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//scripts.poll-maker.com/3012/pollembed.js','qp');</script>
+<iframe class="qp_iframe" src="https://www.poll-maker.com/frame2984668xA4e715ab-89" seamless="seamless" frameborder="no" style="border:0; background:transparent; width:100%; height:297px;"></iframe><div id='qp_foot2984668' style='width:100%; padding:5px; text-align:center;'>Created with <a href='https://linkto.run/e/STL2VNJR'>Quiz Maker</a></div><STYLE>@media (max-width:320px) {.qp_iframe{min-height:328px}}@media (max-width:375px) {.qp_iframe{min-height:328px}}@media (max-width:414px) {.qp_iframe{min-height:328px}}</STYLE>
 
 ## Program
 
